@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "range_fibonachi", "range_fibonachi.esproj", "{53236281-9816-5BE2-8273-200EA749D356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53236281-9816-5BE2-8273-200EA749D356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53236281-9816-5BE2-8273-200EA749D356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53236281-9816-5BE2-8273-200EA749D356}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{53236281-9816-5BE2-8273-200EA749D356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53236281-9816-5BE2-8273-200EA749D356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53236281-9816-5BE2-8273-200EA749D356}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FDD0692-C7A1-4ED2-86A4-3CF48F2FBA4F}
+	EndGlobalSection
+EndGlobal
