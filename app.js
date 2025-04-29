@@ -12,8 +12,8 @@
                     const value = a;
                     [a, b] = [b, a + b];
                     return { done: false, value };
-                }
-            }
+        }
+    }
         };
     };
 }
